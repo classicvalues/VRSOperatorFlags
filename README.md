@@ -50,7 +50,7 @@ Download [GeneralAviation.zip](https://github.com/rikgale/VRSOperatorFlags/raw/m
 
 Approx **400** (85x20 px) UK centric General Aviation operator flags.
 
-All Flags are listed in [GeneralAviationList.txt](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviationList.txt). Newst at the top.
+All Flags are listed in [GeneralAviationList.txt](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviationList.txt). Newest at the top.
 
 ### *Name format*
 
