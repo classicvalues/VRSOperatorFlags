@@ -29,10 +29,10 @@ AstonJet C68A F-HSFJ
     [ICAO Airline Code] - [ICAO Type Code][+/- registration for special colours etc or other indicator e.g. OW = OneWorld]
     
 
-1. Ryanair B737-800 -> RYR-B738
-2. United States Air Force C5 -> RCH-C5M
-3. Air Serbia A330-200 Nikola Tesla colour scheme -> ASL-A332YU-ARB
-4. Turkish Airlines A330-200 Star Alliance colours -> THY-A332SA
+1. Ryanair B737-800 -> RYR-B738 ![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/eg/RYR-B738.bmp "RYR-B738")
+2. United States Air Force C5 -> RCH-C5M ![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/eg/RCH-C5M.bmp "RCH-C5M.")
+3. Air Serbia A330-200 Nikola Tesla colour scheme -> ASL-A332YU-ARB ![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/eg/ASL-A332YU-ARB.bmp "ASL-A332YU-ARB")
+4. Turkish Airlines A330-200 Star Alliance colours -> THY-A332SA ![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/eg/THY-A332SA.bmp "THY-A332SA")
 
 
 + #### NON-ICAO Coded Airline / Military
