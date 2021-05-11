@@ -66,7 +66,7 @@ All Flags are listed in [GeneralAviationList.txt](https://github.com/rikgale/VRS
 
 Download [Silhouettes.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.zip) and extract into the Silhouettes folder of your Virtual Radar Server installation. 
 
-**11** (85x20 px) additional Silhouettes
+**11** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
 
 ### *Name format*
 
@@ -74,6 +74,18 @@ Download [Silhouettes.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/
 
 1. Boeing B737 MAX 8 -> B38M
 2. 2020 Windracers Ultra-UAS -> UOSUAV (Custom)
+
+
+### *Examples of the latest updated operator flags:*
+
+Boeing B737 MAX 8 (B38M) 
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/B38M.bmp "B38M")
+
+Bombardier Global Express (GLEX)
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/GLEX.bmp "GLEX")
+
+2020 Windracers Ultra-UAS (UOSUAV)
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/UOSUAV.bmp "UOSUAV")
 
 ---
 
