@@ -14,14 +14,11 @@ All Flags are listed in [OperatorFlagsList.txt](https://github.com/rikgale/VRSOp
 
 ### *Examples of the latest updated operator flags:*
 
-AstonJet C510 F-HEND 
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Fleet/ASJ-C510F-HEND.bmp "F-HEND")
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Fleet/Latest1.bmp " ")
 
-AstonJet C68A F-HATV 
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Fleet/ASJ-C68AF-HATV.bmp "F-HATV")
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Fleet/Latest2.bmp " ")
 
-AstonJet C68A F-HSFJ 
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Fleet/ASJ-C68AF-HSFJ.bmp "F-HSFJ")
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Fleet/Latest3.bmp " ")
 
 ### *Name format*
 + #### ICAO Coded Airline / Military
@@ -52,6 +49,14 @@ Approx **400** (85x20 px) UK centric General Aviation operator flags.
 
 All Flags are listed in [GeneralAviationList.txt](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviationList.txt). Newest at the top.
 
+### *Examples of the latest updated operator flags:*
+
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/GA/Latest1.bmp " ")
+
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/GA/Latest2.bmp " ")
+
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/GA/Latest3.bmp " ")
+
 ### *Name format*
 
 [Registration]
@@ -78,14 +83,14 @@ Download [Silhouettes.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/
 
 ### *Examples of the latest updated operator flags:*
 
-Boeing B737 MAX 8 (B38M) 
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/B38M.bmp "B38M")
-
-Bombardier Global Express (GLEX)
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/GLEX.bmp "GLEX")
-
 2020 Windracers Ultra-UAS (UOSUAV)
 ![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/UOSUAV.bmp "UOSUAV")
+
+Boeing B737 MAX 9 (B39M) 
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/B39M.bmp "B39M")
+
+SLINGSBY T-67 Firefly (RF6)
+![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/RF6.bmp "RF6")
 
 ---
 
