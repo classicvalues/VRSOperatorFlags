@@ -73,6 +73,8 @@ Download [Silhouettes.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/
 
 **11** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
 
+All Silhouettes are listed in [SilhouettesList.txt](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.txt). Alphabetical order. 
+
 ### *Name format*
 
 [ICAO Type Code] or Custom
