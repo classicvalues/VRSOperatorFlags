@@ -82,18 +82,6 @@ All Silhouettes are listed in [SilhouettesList.txt](https://github.com/rikgale/V
 1. Boeing B737 MAX 8 -> B38M
 2. 2020 Windracers Ultra-UAS -> UOSUAV (Custom)
 
-
-### *Examples of the latest updated operator flags:*
-
-2020 Windracers Ultra-UAS (UOSUAV)
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/UOSUAV.bmp "UOSUAV")
-
-Boeing B737 MAX 9 (B39M) 
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/B39M.bmp "B39M")
-
-SLINGSBY T-67 Firefly (RF6)
-![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Silh/RF6.bmp "RF6")
-
 ---
 
-Other operator flags for VRS/Basestation from other contributers are also available at [RadarSpotting.com](https://radarspotting.com/forum/index.php?action=forum).
+Other operator flags / Silhouettes for VRS/Basestation from other contributers are also available at [RadarSpotting.com](https://radarspotting.com/forum/index.php?action=forum).
