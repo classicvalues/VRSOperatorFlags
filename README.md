@@ -8,9 +8,9 @@ Please post requests/alterations as issues on this GitHub repo or leave a post o
 
 Download [OperatorFlags.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/OperatorFlags.zip) and extract into the OperatorFlags folder of your Virtual Radar Server installation. Overwrite/replace images when asked to ensure that you have the most up-to-date versions.
 
-Approx **4220** (85x20 px) operator flags. 
+Approx **4368** (85x20 px) operator flags. 
 
-All Flags are listed in [OperatorFlagsList.txt](https://github.com/rikgale/VRSOperatorFlags/raw/main/OperatorFlagsList.txt). Newest at the top. 
+All Flags are listed in [OperatorFlagsList.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/OperatorFlagsList.csv). Newest at the top. 
 
 ### *Examples of the latest updated operator flags:*
 
@@ -45,9 +45,9 @@ All Flags are listed in [OperatorFlagsList.txt](https://github.com/rikgale/VRSOp
 
 Download [GeneralAviation.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviation.zip) and extract into the OperatorFlags folder of your Virtual Radar Server installation. Overwrite/replace images when asked to ensure that you have the most up-to-date versions.
 
-Approx **400** (85x20 px) UK centric General Aviation operator flags.
+Approx **448** (85x20 px) UK centric General Aviation operator flags.
 
-All Flags are listed in [GeneralAviationList.txt](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviationList.txt). Newest at the top.
+All Flags are listed in [GeneralAviationList.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviationList.csv). Newest at the top.
 
 ### *Examples of the latest updated operator flags:*
 
