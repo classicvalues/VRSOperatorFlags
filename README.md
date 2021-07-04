@@ -2,7 +2,7 @@
 
 Replacement / additional operator flags for a Virtual Radar Server or Basestation installation. Side views of aircraft with the airlines/operators logo on. Where able, individual paint schemes are used to maximise the amount of detail available. 
 
-Please post requests/alterations as issues on this GitHub repo or leave a post on my thread at [RadarSpotting.com](https://radarspotting.com/forum/index.php/topic,11887.0.html) forum. 
+Please post requests/alterations as issues on this GitHub repo or leave a post on my thread at [RadarSpotting.com](https://radarspotting.com/forum/index.php/topic,11887.0.html) forum.  
 
 ## Operator Flags for Virtual Radar Server
 
