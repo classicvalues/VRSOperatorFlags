@@ -71,7 +71,7 @@ All Flags are listed in [GeneralAviationList.csv](https://github.com/rikgale/VRS
 
 Download [Silhouettes.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.zip) and extract into the Silhouettes folder of your Virtual Radar Server installation. 
 
-**349** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
+**352** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
 
 All Silhouettes are listed in [Silhouettes.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.csv). Alphabetical order. 
 
