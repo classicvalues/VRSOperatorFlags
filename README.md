@@ -8,7 +8,7 @@ Please post requests/alterations as issues on this GitHub repo or leave a post o
 
 Download [OperatorFlags.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/OperatorFlags.zip) and extract into the OperatorFlags folder of your Virtual Radar Server installation. Overwrite/replace images when asked to ensure that you have the most up-to-date versions.
 
-Approx **4570** (85x20 px) operator flags. 
+Approx **4709** (85x20 px) operator flags. 
 
 All Flags are listed in [OperatorFlagsList.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/OperatorFlagsList.csv). Newest at the top. 
 
@@ -71,7 +71,7 @@ All Flags are listed in [GeneralAviationList.csv](https://github.com/rikgale/VRS
 
 Download [Silhouettes.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.zip) and extract into the Silhouettes folder of your Virtual Radar Server installation. 
 
-**635** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
+**648** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
 
 All Silhouettes are listed in [Silhouettes.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.csv). Alphabetical order. 
 
