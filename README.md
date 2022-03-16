@@ -8,11 +8,11 @@ Please post requests/alterations as issues on this GitHub repo or leave a post o
 
 Download [OperatorFlags.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/OperatorFlags.zip) and extract into the OperatorFlags folder of your Virtual Radar Server installation. Overwrite/replace images when asked to ensure that you have the most up-to-date versions.
 
-Approx **4709** (85x20 px) operator flags. 
+Approx **6510** (85x20 px) operator flags. 
 
 All Flags are listed in [OperatorFlagsList.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/OperatorFlagsList.csv). Newest at the top. 
 
-### *Examples of the latest updated operator flags:*
+### *Examples of operator flags:*
 
 ![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/Fleet/Latest1.bmp " ")
 
@@ -45,11 +45,11 @@ All Flags are listed in [OperatorFlagsList.csv](https://github.com/rikgale/VRSOp
 
 Download [GeneralAviation.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviation.zip) and extract into the OperatorFlags folder of your Virtual Radar Server installation. Overwrite/replace images when asked to ensure that you have the most up-to-date versions.
 
-Approx **450** (85x20 px) UK centric General Aviation operator flags.
+Approx **499** (85x20 px) UK centric General Aviation operator flags.
 
 All Flags are listed in [GeneralAviationList.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/GeneralAviationList.csv). Newest at the top.
 
-### *Examples of the latest updated operator flags:*
+### *Examples of General Aviation Flags:*
 
 ![alt text](https://github.com/rikgale/VRSOperatorFlags/blob/main/Latest/GA/Latest1.bmp " ")
 
@@ -71,7 +71,7 @@ All Flags are listed in [GeneralAviationList.csv](https://github.com/rikgale/VRS
 
 Download [Silhouettes.zip](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.zip) and extract into the Silhouettes folder of your Virtual Radar Server installation. 
 
-**648** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
+**1319** (85x20 px) additional Silhouettes. Background of silhouette is colour matched to standard VRS silhouettes
 
 All Silhouettes are listed in [Silhouettes.csv](https://github.com/rikgale/VRSOperatorFlags/raw/main/Silhouettes.csv). Alphabetical order. 
 
