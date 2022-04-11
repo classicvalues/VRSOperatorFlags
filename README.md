@@ -2,7 +2,6 @@
 
 *This readme badly needs updating - but if you want everything download OperatorFlags.zip and Silhouettes.zip into respective folders on your VRS / Basestation installation - if asked to overwrite click OK and overwrite existing files.*
 
-Rhodan Test
 
 Replacement / additional operator flags for a Virtual Radar Server or Basestation installation. Side views of aircraft with the airlines/operators logo on. Where able, individual paint schemes are used to maximise the amount of detail available. 
 
