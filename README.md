@@ -89,4 +89,5 @@ All Silhouettes are listed in [Silhouettes.csv](https://github.com/rikgale/VRSOp
 ## Additional Data Licencing and Attribution
 
 Majority of data for Basestation.sqb and Aircraft.csv used with kind permission from Planebase, data extracted and part processed using SQBCreator. Additional data from mictronics.de database (Aircraft database for adsbSCOPE) which is made available under the [ODC Attribution License.](https://opendatacommons.org/licenses/by/1-0/)
-All credit to Sportbadger for additional data post-processing and data merger.
+
+All credit to [Sportbadger](https://github.com/Sportsbadger) for additional data post-processing and data merger.
