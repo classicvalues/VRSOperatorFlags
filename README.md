@@ -86,5 +86,7 @@ All Silhouettes are listed in [Silhouettes.csv](https://github.com/rikgale/VRSOp
 2. 2020 Windracers Ultra-UAS -> UOSUAV (Custom)
 
 ---
+## Additional Data Licencing and Attribution
 
-Other operator flags / Silhouettes for VRS/Basestation from other contributers are also available at [RadarSpotting.com](https://radarspotting.com/forum/index.php?action=forum).
+Majority of data for Basestation.sqb and Aircraft.csv used with kind permission from Planebase, data extracted and part processed using SQBCreator. Additional data from mictronics.de database (Aircraft database for adsbSCOPE) which is made available under the [ODC Attribution License.](https://opendatacommons.org/licenses/by/1-0/)
+All credit to Sportbadger for additional data post-processing and data merger.
